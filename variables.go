@@ -16,3 +16,7 @@ func master()  {
 	fmt.Println("Pi:", pi)
 	fmt.Println("Hello, Go!")
 }
+
+func nurs()  {
+	
+}
